@@ -4,7 +4,7 @@
    <a href="https://github.com/srishti-maurya/plan-it-note-it/tree/dev">
  <img src="./src/frontend/assets/logo/logo.png" alt="Logo" height="100">
   </a>
-   <h3 align="center">Plan it, Shop it - E-commerce App</h3>
+   <h3 align="center">Plan it, Note it - Note taking App</h3>
   <p align="center">
 Are you planning to read a book? We've got your back! The top book collections have been hand-picked for you at the best price.
   </p>
